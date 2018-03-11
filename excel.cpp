@@ -2,7 +2,7 @@
  *  Export data to Excel in C++
  * 
  *  @author: Carlos Abraham Hernandez
- *  @url: www.19cah.com, github.com/19cah
+ *  www.19cah.com, github.com/19cah
  */
 
 
@@ -10,7 +10,9 @@
 #include <fstream>
 #include<string>
 #include <iomanip>
+
 using namespace std;
+
 int main()
 {
 	ofstream outdata;
