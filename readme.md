@@ -6,8 +6,7 @@
 	<h2>Introduction to Java</h2><br>
 <p>
 
-
-* [Assignments](assignments)
-* [Class](class)
-* [Class Work](class-work)
-* [Resources](resources)
+- [Assignments](assignments)
+- [Class](class)
+- [Class Work](class-work)
+- [Resources](resources)
