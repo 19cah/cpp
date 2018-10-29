@@ -2,10 +2,10 @@
 
 ## Java PDFs
 
-- [Intro to Java 1](java1.pdf)
-- [Intro to Java 2](java2.pdf)
-- [Intro to Java 3](java3.pdf)
-- [Intro to Java 4](java4.pdf)
-- [Intro to Java 5](java5.pdf)
-- [Intro to Java 6](java6.pdf)
-- [Intro to Java 7](java7.pdf)
+- [Intro to Java 1](01-java.pdf)
+- [Intro to Java 2](02-java.pdf)
+- [Intro to Java 3](03-java.pdf)
+- [Intro to Java 4](04-java.pdf)
+- [Intro to Java 5](05-java.pdf)
+- [Intro to Java 6](06-java.pdf)
+- [Intro to Java 7](07-java.pdf)
