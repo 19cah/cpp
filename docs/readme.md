@@ -8,5 +8,4 @@
 
 - [Assignments](assignments)
 - [Class](class)
-- [Class Work](class-work)
-- [Resources](resources)
+- [Pdfs](pdfs)
