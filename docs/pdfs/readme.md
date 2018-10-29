@@ -1,7 +1,6 @@
-<p align="left">
-	<img src="https://cdn.abranhe.com/projects/algorithms/logos/java.svg" width="200px">
-	<h2>Java PDFs</h2><br>
-</p>
+<img src="https://cdn.abranhe.com/projects/algorithms/logos/java.svg" width="200px">
+
+## Java PDFs
 
 - [Intro to Java 1](java1.pdf)
 - [Intro to Java 2](java2.pdf)
